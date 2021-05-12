@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "88691147615",
+    "project_id": "webapptravel",
+    "storage_bucket": "webapptravel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88691147615:android:f979b947c038c72a652cea",
+        "android_client_info": {
+          "package_name": "com.example.fontend_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88691147615-bh8tm47jt66c2oaofp1ss3g2olog64fu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKxaL1cIlcPQwfpjzW9BolCFNs_thf5sE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88691147615-bh8tm47jt66c2oaofp1ss3g2olog64fu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
